@@ -6,7 +6,10 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AniPortrait-jupyter/blob/main/AniPortrait_jupyter.ipynb) | AniPortrait_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AniPortrait-jupyter/blob/main/AniPortrait_pose2vid_jupyter.ipynb) | AniPortrait_pose2vid_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AniPortrait-jupyter/blob/main/AniPortrait_vid2vid_jupyter.ipynb) | AniPortrait_vid2vid_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AniPortrait-jupyter/blob/main/AniPortrait_audio2vid_jupyter.ipynb) | AniPortrait_audio2vid_jupyter
+
 
 ### 🧬 Code
 https://github.com/Zejun-Yang/AniPortrait
