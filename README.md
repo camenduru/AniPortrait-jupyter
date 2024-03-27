@@ -14,6 +14,8 @@
 
 ### 📋 Tutorial
 
+-W 512 -H 512 -L 256 -> 100% 25/25 [37:52<00:00, 90.88s/it] with T4
+
 ![Screenshot 2024-03-27 160802](https://github.com/camenduru/AniPortrait-jupyter/assets/54370274/2eddfe9c-25a8-4558-8666-0127c1e09226)
 
 ### 🧬 Code
