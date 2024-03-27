@@ -20,8 +20,17 @@ https://github.com/Zejun-Yang/AniPortrait
 https://arxiv.org/abs/2403.17694
 
 ### 🖼 Output
+AniPortrait_pose2vid_jupyter
+
+https://github.com/camenduru/AniPortrait-jupyter/assets/54370274/1b494cbc-fad5-43c2-8a02-aa6e0bc44d82
+
+AniPortrait_vid2vid_jupyter
 
 https://github.com/camenduru/AniPortrait-jupyter/assets/54370274/7d23b338-45ef-4264-8807-52c916d0705c
+
+AniPortrait_audio2vid_jupyter
+
+https://github.com/camenduru/AniPortrait-jupyter/assets/54370274/b6c5f199-1ea0-4e3f-a112-591d5b7754dd
 
 ### 🏢 Sponsor
 https://modelslab.com
