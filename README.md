@@ -14,7 +14,7 @@
 
 ### 📋 Tutorial
 
-🐜 Little bug: FFmpeg is cutting in the wrong place. I will try to fix it.
+🐜 Little bug: FFmpeg is cutting from the wrong place. I will try to fix it.
 
 https://github.com/camenduru/AniPortrait-jupyter/assets/54370274/bd68cd67-af64-4932-bd75-7a00a7cbe81c
 
