@@ -17,13 +17,11 @@
 https://github.com/Zejun-Yang/AniPortrait
 
 ### 📄 Paper
-
-
-### 🌐 Page
-
+https://arxiv.org/abs/2403.17694
 
 ### 🖼 Output
 
+https://github.com/camenduru/AniPortrait-jupyter/assets/54370274/7d23b338-45ef-4264-8807-52c916d0705c
 
 ### 🏢 Sponsor
 https://modelslab.com
