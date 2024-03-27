@@ -13,7 +13,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AniPortrait-jupyter/blob/main/AniPortrait_audio2vid_jupyter.ipynb) | AniPortrait_audio2vid_jupyter
 
 ### 📋 Tutorial
-🚦 WIP 🚦
+
+![Screenshot 2024-03-27 160802](https://github.com/camenduru/AniPortrait-jupyter/assets/54370274/2eddfe9c-25a8-4558-8666-0127c1e09226)
 
 ### 🧬 Code
 https://github.com/Zejun-Yang/AniPortrait
