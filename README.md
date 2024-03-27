@@ -14,6 +14,10 @@
 
 ### 📋 Tutorial
 
+🐜 Little bug: FFmpeg is cutting in the wrong place. I will try to fix it.
+
+https://github.com/camenduru/AniPortrait-jupyter/assets/54370274/bd68cd67-af64-4932-bd75-7a00a7cbe81c
+
 -W 512 -H 512 -L 256 -> 100% 25/25 [37:52<00:00, 90.88s/it] with T4
 
 ![Screenshot 2024-03-27 160802](https://github.com/camenduru/AniPortrait-jupyter/assets/54370274/2eddfe9c-25a8-4558-8666-0127c1e09226)
